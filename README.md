@@ -1,5 +1,8 @@
 # Programming Principles
 
+<div align="center">
+    <img width="1000" height="480" alt="Gemini_Generated_Image_g75uh1g75uh1g75u" src="https://github.com/user-attachments/assets/9be93dd4-5389-4dde-94ee-44c15ba7d605" />
+</div>
 Dự án này là bộ Knowledge Base (KB) về các nguyên tắc lập trình, kiến trúc hệ thống và tiêu chuẩn phát triển website đạt chuẩn doanh nghiệp (Enterprise Grade) bằng PHP Laravel.
 Được thiết kế để phục vụ cả **lập trình viên con người** và **AI Agent** khi xây dựng website.
 
