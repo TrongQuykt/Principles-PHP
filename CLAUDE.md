@@ -1,0 +1,1 @@
+Always strictly follow the principles and priorities defined in [Path/to/Principles-PHP]. In case of conflict, higher priority (lower number) always wins.
